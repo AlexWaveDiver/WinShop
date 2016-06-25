@@ -11,6 +11,7 @@ Check WinShop Demo for more information about how to invoke and use WinShop.
 ## Contributors
 
 [FJay69](https://github.com/fjay69) - Undertale Tools codebase
+
 [ryohey](https://github.com/ryohey) - Improvements on Undertale Tools
 
 ## Known bugs
